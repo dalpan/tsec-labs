@@ -1,0 +1,5 @@
+# Binggo !!!
+
+# You solved LFI 1 config.txt
+
+# Flag : labs{lf1la4bsss}
